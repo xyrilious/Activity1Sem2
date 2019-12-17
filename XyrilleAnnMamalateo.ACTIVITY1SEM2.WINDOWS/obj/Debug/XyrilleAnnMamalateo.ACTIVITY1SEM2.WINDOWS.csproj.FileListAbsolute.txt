@@ -1,0 +1,15 @@
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\bin\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.exe.config
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\bin\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.exe
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\bin\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.pdb
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.csprojAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.g.resources
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.csproj.GenerateResource.cache
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.exe
+C:\Users\COMLABPC8\source\repos\XyrilleAnnMamalateo.ACTIVITY1SEM2\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS\obj\Debug\XyrilleAnnMamalateo.ACTIVITY1SEM2.WINDOWS.pdb
